@@ -38,7 +38,7 @@
     <urlvrbrainv50>http://www.radionav.it/portale/MissionPlanner/firmware/Rover/stable/VRX/APMrover2-vrbrain-v50.vrx</urlvrbrainv50>
     <urlvrbrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Rover/stable/VRX/APMrover2-vrbrain-v51.vrx</urlvrbrainv51>
     <urlvrherov10>http://www.radionav.it/portale/MissionPlanner/firmware/Rover/stable/VRX/APMrover2-vrhero-v10.vrx</urlvrherov10>
-    <urlvrubrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Rover/stable/VRX/APMrover2-vrburain-v51.vrx</urlvrubrainv51>
+    <urlvrubrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Rover/stable/VRX/APMrover2-vrubrain-v51.vrx</urlvrubrainv51>
     <name>ArduRover Stable</name>
     <desc>
 </desc>
@@ -174,7 +174,7 @@
     <urlvrbrainv50>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-quad-hil/ArduCopter-vrbrain-v50.vrx</urlvrbrainv50>
     <urlvrbrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-quad-hil/ArduCopter-vrbrain-v51.vrx</urlvrbrainv51>
     <urlvrherov10>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-quad-hil/ArduCopter-vrhero-v10.vrx</urlvrherov10>
-    <urlvrubrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-quad-hil/ArduCopter-vrbrain-v51.vrx</urlvrubrainv51>
+    <urlvrubrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-quad-hil/ArduCopter-vrubrain-v51.vrx</urlvrubrainv51>
     <name>ArduCopter Quad Hil</name>
     <desc>
 </desc>
