@@ -1,0 +1,7 @@
+commit 280f47365b1220c5c09601ea009cb94c03842af2
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Tue Aug 5 15:34:01 2014 +0200
+
+    Rebased to ardupilot
+
+APMVERSION: ArduPlane V3.0.4-beta3

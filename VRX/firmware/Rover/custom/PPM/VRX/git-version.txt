@@ -1,0 +1,7 @@
+commit e9c07a833b5e8f9b28d50145702f312ed80041eb
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Tue Aug 5 15:31:51 2014 +0200
+
+    Rebased to ardupilot
+
+APMVERSION: ArduRover v2.46beta2
