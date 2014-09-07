@@ -1,0 +1,7 @@
+commit 95eb5653bd0296bcb5a6ef614733b30933f146e1
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Sat Sep 6 18:31:39 2014 +0200
+
+    Updated script for build new branches
+
+APMVERSION: ArduRover v2.46
