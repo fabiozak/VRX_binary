@@ -1,7 +1,0 @@
-commit 338223dc7fe7e7413d8886a2983100339068604f
-Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Tue Aug 19 07:50:30 2014 +0200
-
-    VRBRAIN: added start of internal compass
-
-APMVERSION: ArduRover v2.46beta2
