@@ -1,0 +1,7 @@
+commit b6a6904fd72db279d24fce989b1720959d57238d
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Sat Sep 6 18:32:08 2014 +0200
+
+    Updated script for build new branches
+
+APMVERSION: ArduCopter V3.2-rc7
