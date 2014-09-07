@@ -1,0 +1,7 @@
+commit 32977b4702d0be9db02abef84ff71b0f7adb5b38
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Sat Sep 6 18:32:36 2014 +0200
+
+    Updated script for build new branches
+
+APMVERSION: ArduPlane V3.1.1-beta
