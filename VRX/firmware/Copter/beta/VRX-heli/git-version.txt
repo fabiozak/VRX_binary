@@ -1,7 +1,7 @@
-commit ca328f8f3ecd93c4847babd6955f283e2ad067be
+commit 95eb5653bd0296bcb5a6ef614733b30933f146e1
 Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Tue Aug 19 07:50:09 2014 +0200
+Date:   Sat Sep 6 18:31:39 2014 +0200
 
-    VRBRAIN: added start of internal compass
+    Updated script for build new branches
 
-APMVERSION: ArduCopter V3.2-rc4
+APMVERSION: ArduCopter V3.3-dev
