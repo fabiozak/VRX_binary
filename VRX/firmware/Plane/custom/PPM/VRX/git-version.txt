@@ -1,7 +1,0 @@
-commit ca328f8f3ecd93c4847babd6955f283e2ad067be
-Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Tue Aug 19 07:50:09 2014 +0200
-
-    VRBRAIN: added start of internal compass
-
-APMVERSION: ArduPlane V3.0.4-beta3
